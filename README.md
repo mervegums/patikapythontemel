@@ -1,3 +1,3 @@
 # patikapythontemel
-Flat Etmek
+Flat Etmek ,Reverse Etmek
 www.patika.dev
