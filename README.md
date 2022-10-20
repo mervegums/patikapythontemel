@@ -1,0 +1,2 @@
+# patikapythontemel
+Flat Etmek
